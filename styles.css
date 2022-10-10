@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    width: 1350px;
+    margin-top: 15%;
+    background: #292929;
+    justify-content: center;
+    }
+
+.form {
+    margin: 0 auto;
+    width: 500px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: azure
+}
+
+.fitext, .message,
+.button {
+    margin-bottom: 25px;
+}
