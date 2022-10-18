@@ -25,4 +25,7 @@ body {
 
 .result {
     margin: auto;
+    border: 1px solid azure;
+    border-radius: 5em;
+    padding: 10px 10px 10px 10px;
 }
