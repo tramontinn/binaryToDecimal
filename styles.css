@@ -1,6 +1,6 @@
 body {
     display: flex;
-    width: 1350px;
+    width: 100%;
     margin-top: 15%;
     background: #292929;
     justify-content: center;
@@ -21,4 +21,8 @@ body {
 .fitext, .message,
 .button {
     margin-bottom: 25px;
+}
+
+.result {
+    margin: auto;
 }
